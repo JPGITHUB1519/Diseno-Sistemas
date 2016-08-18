@@ -1,4 +1,4 @@
-﻿namespace Diseno_Sistemas
+﻿namespace diseno_sistemas
 {
     partial class Form1
     {

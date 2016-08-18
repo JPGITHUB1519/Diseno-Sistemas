@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Diseno_Sistemas.Properties
+namespace diseno_sistemas.Properties
 {
 
 

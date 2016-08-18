@@ -9,11 +9,16 @@ using System.Windows.Forms;
 
 namespace diseno_sistemas
 {
-    public partial class Form1 : Form
+    public partial class proveedores : Form
     {
-        public Form1()
+        public proveedores()
         {
             InitializeComponent();
+        }
+
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

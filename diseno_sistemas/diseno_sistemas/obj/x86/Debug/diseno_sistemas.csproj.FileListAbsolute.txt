@@ -1,0 +1,8 @@
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.exe
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.pdb
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Principal.resources
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Properties.Resources.resources
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
