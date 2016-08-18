@@ -6,3 +6,4 @@ C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas
 C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
 C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
 C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmtransacciones.resources

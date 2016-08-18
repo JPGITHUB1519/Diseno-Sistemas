@@ -35,7 +35,6 @@
             this.Eliminar = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.lblTotal = new System.Windows.Forms.Label();
             this.chkeliminar = new System.Windows.Forms.CheckBox();
-            this.btnBuscar = new System.Windows.Forms.Button();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txtlim = new System.Windows.Forms.TextBox();
@@ -46,21 +45,22 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtcodigo = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.btnNuevo = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.btnBuscar = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.btnNuevo = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataListado)).BeginInit();
@@ -73,7 +73,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Maroon;
-            this.label1.Location = new System.Drawing.Point(10, 29);
+            this.label1.Location = new System.Drawing.Point(10, 22);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(417, 31);
             this.label1.TabIndex = 1;
@@ -148,16 +148,6 @@
             this.chkeliminar.Text = "Eliminar";
             this.chkeliminar.UseVisualStyleBackColor = true;
             // 
-            // btnBuscar
-            // 
-            this.btnBuscar.Image = global::diseno_sistemas.Properties.Resources.search;
-            this.btnBuscar.Location = new System.Drawing.Point(307, 16);
-            this.btnBuscar.Name = "btnBuscar";
-            this.btnBuscar.Size = new System.Drawing.Size(80, 55);
-            this.btnBuscar.TabIndex = 2;
-            this.btnBuscar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.btnBuscar.UseVisualStyleBackColor = true;
-            // 
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.groupBox1);
@@ -173,7 +163,7 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.textBox2);
-            this.groupBox1.Controls.Add(this.label8);
+            this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.textBox3);
             this.groupBox1.Controls.Add(this.label9);
             this.groupBox1.Controls.Add(this.textBox1);
@@ -267,71 +257,6 @@
             this.label3.TabIndex = 10;
             this.label3.Text = "Codigo";
             // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.save;
-            this.btnNuevo.Location = new System.Drawing.Point(55, 312);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
-            this.btnNuevo.TabIndex = 6;
-            this.btnNuevo.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Image = global::diseno_sistemas.Properties.Resources.print;
-            this.button2.Location = new System.Drawing.Point(393, 15);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(80, 55);
-            this.button2.TabIndex = 8;
-            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Image = global::diseno_sistemas.Properties.Resources.delete;
-            this.button3.Location = new System.Drawing.Point(479, 15);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(80, 55);
-            this.button3.TabIndex = 9;
-            this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.Image = global::diseno_sistemas.Properties.Resources.search;
-            this.button4.Location = new System.Drawing.Point(167, 312);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(106, 72);
-            this.button4.TabIndex = 19;
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
-            this.button5.Location = new System.Drawing.Point(391, 312);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(106, 72);
-            this.button5.TabIndex = 20;
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
-            this.button6.Location = new System.Drawing.Point(503, 312);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(106, 72);
-            this.button6.TabIndex = 21;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            this.button7.Image = global::diseno_sistemas.Properties.Resources.delete;
-            this.button7.Location = new System.Drawing.Point(279, 312);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(106, 72);
-            this.button7.TabIndex = 22;
-            this.button7.UseVisualStyleBackColor = true;
-            // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(171, 96);
@@ -348,23 +273,6 @@
             this.label7.Size = new System.Drawing.Size(43, 20);
             this.label7.TabIndex = 23;
             this.label7.Text = "RNC";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(520, 96);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(191, 20);
-            this.textBox2.TabIndex = 28;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(424, 94);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(43, 20);
-            this.label8.TabIndex = 27;
-            this.label8.Text = "RNC";
             // 
             // textBox3
             // 
@@ -400,16 +308,109 @@
             this.label10.TabIndex = 12;
             this.label10.Text = "Nombre";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(402, 109);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(75, 20);
+            this.label2.TabIndex = 27;
+            this.label2.Text = "Direccion";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(520, 109);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(191, 20);
+            this.textBox2.TabIndex = 28;
+            // 
+            // button3
+            // 
+            this.button3.Image = global::diseno_sistemas.Properties.Resources.delete;
+            this.button3.Location = new System.Drawing.Point(479, 15);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(80, 55);
+            this.button3.TabIndex = 9;
+            this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Image = global::diseno_sistemas.Properties.Resources.print;
+            this.button2.Location = new System.Drawing.Point(393, 15);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(80, 55);
+            this.button2.TabIndex = 8;
+            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // btnBuscar
+            // 
+            this.btnBuscar.Image = global::diseno_sistemas.Properties.Resources.search;
+            this.btnBuscar.Location = new System.Drawing.Point(307, 16);
+            this.btnBuscar.Name = "btnBuscar";
+            this.btnBuscar.Size = new System.Drawing.Size(80, 55);
+            this.btnBuscar.TabIndex = 2;
+            this.btnBuscar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnBuscar.UseVisualStyleBackColor = true;
+            // 
+            // button7
+            // 
+            this.button7.Image = global::diseno_sistemas.Properties.Resources.delete;
+            this.button7.Location = new System.Drawing.Point(279, 312);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(106, 72);
+            this.button7.TabIndex = 22;
+            this.button7.UseVisualStyleBackColor = true;
+            // 
+            // button6
+            // 
+            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
+            this.button6.Location = new System.Drawing.Point(503, 312);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(106, 72);
+            this.button6.TabIndex = 21;
+            this.button6.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
+            this.button5.Location = new System.Drawing.Point(391, 312);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(106, 72);
+            this.button5.TabIndex = 20;
+            this.button5.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Image = global::diseno_sistemas.Properties.Resources.search;
+            this.button4.Location = new System.Drawing.Point(167, 312);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(106, 72);
+            this.button4.TabIndex = 19;
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.save;
+            this.btnNuevo.Location = new System.Drawing.Point(55, 312);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
+            this.btnNuevo.TabIndex = 6;
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            // 
             // proveedores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(820, 566);
+            this.ClientSize = new System.Drawing.Size(813, 562);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.label1);
             this.Name = "proveedores";
             this.Text = "proveedores";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
@@ -453,10 +454,10 @@
         public System.Windows.Forms.Button button4;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label label2;
 
     }
 }

@@ -107,5 +107,12 @@ namespace diseno_sistemas
         {
 
         }
+
+        private void cuentasPorPagarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmtransacciones doform = new frmtransacciones();
+            doform.MdiParent = this;
+            doform.Show();
+        }
     }
 }

@@ -50,6 +50,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmtransacciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtransacciones.Designer.cs">
+      <DependentUpon>frmtransacciones.cs</DependentUpon>
+    </Compile>
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +70,9 @@
     <Compile Include="proveedores.Designer.cs">
       <DependentUpon>proveedores.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="frmtransacciones.resx">
+      <DependentUpon>frmtransacciones.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
     </EmbeddedResource>
