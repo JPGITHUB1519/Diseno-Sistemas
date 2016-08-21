@@ -1,0 +1,26 @@
+En cuanto a las seguridad para el acceso a la aplicación se empleará un sistema de login y registro de usuarios. El cual permite identificar y autenticar a los individuos que accederán al sistema.
+En el cual al inicial el sistema aparecerá la pantalla de Log-in la cual se compone con las siguientes credenciales de usuario tales como : nombre de usuario y contraseña.
+
+El nombre de usuario se refiere a quién accederá al sistema y éste es asignado por el usuario administrador que registró a dicho usuario. Los nombres de usuarios debes ser únicos por lo que cada usuario del sistema debe tener un nombre diferente. Para la creación de los nombres de usuarios se debe tener una especie de convención o norma de creación de nombres de usuarios para que a la hora de crear un nuevo usuario no sea tan dificíl la creación de un nombre para el mismo y así tener un orden y no estar creando nombres de manera inventada. También debe manejarse las colisiones de los nombres, en este caso el sistema le sugerirá un nombre de usuario añadiendo algo en específico para deshacer la repetición. Después de ya creado el nombre y la contraseña de usuario el mismo usuario puede cambiar sus credenciales, pero a la hora de hacerlo el sistema le pedírá que ingrese su contraseña anterior para evitar que un usuario externo puede hacer esto.
+
+La contraseña es la forma en que el sistema podrá auntenticar al usuario que desea ingresar al sistema. El sistema solo permitirá contraseñas complejas, es decir contraseñas que seán difíciles de adivinar, entre más difícil es la contraséña mayor seguridad tendrá el acceso al mismo e incluso disminuirá la posibilidad de ataques como los de "FUERZA BRUTA" o similares. Para la creación de una contraseña buena esta debe ser un ligación entre números, carácteres en mayúsculas y minúsculas y tener al menos 6 digitos. Además 
+Estas son las condiciones que pide el sistema para la creación de contraseñas.
+Las contraseñas la elegirán los usuarios a los cual se van a registrar o también el sistema tendrá una opción para darles opciones de contraseñas seguras que pueden utilizar.
+
+También El sistema controlará el número de veces que una persona trata de ingresar al sistema y falla. El número por defecto de intentos del sistema es 5 fallos(pero esto puede ser configurado) y para después de aquí el usuario podrá volver a escribir una contraseña con el mismo nombre de usuario después de 20 minutos(también puede ser configurado). Si se requiere que se desactive esta espera por el momento sé debe informar al usuario administrador para que desbloquee.
+
+A la hora que un empleado renuncié o se vaya de la empresa o se traslada a otra sucursal de la empresa se debe inhabilitar el usuario al acceso del sistema para evitar que ese empleado pueda acceder a los permisos que tenía.
+
+Algo más que podría agregarle más seguridad al sistema es el vencimiento de contraseñas, es decir, que cada cierto tiempo se cambie de contraseña. El tiempo para esto será asignado por el usuario administrador pero teniendo en que que sea un tiempo ni muy largo ni muy corto, osea, tener un balance. El sistema tendrá la opción por defecto de 3 meses pero esto también puede ser configurado.
+
+En caso de que a un usuario se le olvide su contraseña éste debe acudir a un usuario administrador para que se la recuerda o le cree una nueva. 
+
+Cada acción realizada por un usuario será registrada en un historial guardando así la fecha y hora, la acción y el programa que estaba utilizando en el momento. Esto para tener un control de los que los usuarios realizan y en caso de algún fallo realizado por los usuarios saber quién fue. Solo los usuarios administradores podrán revisar las acciones de los demás usuarios.
+
+Un feature interesante del sistema es que en caso de la caida del sistema por algún motivo(que se vaya la luz, se apague el pc etc..) al iniciar de nuevo al sistema quedará en la acción que quedó en la ultima vez. Esto el sistema lo hará buscando en el historial la última aplicación accedida por dicho usuario.
+
+Para el control del acceso la aplicación clasifica los usuarios en dos : usuarios administradores y usuario normales.
+
+Usuarios Administradores : son aquellos que tienen acceso a todas y cada unas de las partes del sistema. Estos inclusos son capaces de crear nuevos usuarios normales y admistradores. Este usuario también sera capaz cambiar los accesos y permisos a los usuarios normales.
+
+Usuarios Normales : tienen acceso limitado. A la hora de su creación el usuario administrador le asignará los diferentes permisos a los cuales el usuario normal pueda acceder.

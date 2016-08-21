@@ -44,17 +44,65 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="confacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confacturas.Designer.cs">
+      <DependentUpon>confacturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conspagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conspagos.Designer.cs">
+      <DependentUpon>conspagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consproveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consproveedores.Designer.cs">
+      <DependentUpon>consproveedores.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmdebitos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdebitos.Designer.cs">
+      <DependentUpon>frmdebitos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmpago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpago.Designer.cs">
+      <DependentUpon>frmpago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmpermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpermisos.Designer.cs">
+      <DependentUpon>frmpermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantproveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantproveedores.Designer.cs">
+      <DependentUpon>mantproveedores.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmtransacciones.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmtransacciones.Designer.cs">
       <DependentUpon>frmtransacciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantusuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantusuarios.Designer.cs">
+      <DependentUpon>mantusuarios.cs</DependentUpon>
     </Compile>
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
@@ -70,8 +118,32 @@
     <Compile Include="proveedores.Designer.cs">
       <DependentUpon>proveedores.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="confacturas.resx">
+      <DependentUpon>confacturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="conspagos.resx">
+      <DependentUpon>conspagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consproveedores.resx">
+      <DependentUpon>consproveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdebitos.resx">
+      <DependentUpon>frmdebitos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpago.resx">
+      <DependentUpon>frmpago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpermisos.resx">
+      <DependentUpon>frmpermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantproveedores.resx">
+      <DependentUpon>mantproveedores.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmtransacciones.resx">
       <DependentUpon>frmtransacciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantusuarios.resx">
+      <DependentUpon>mantusuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
@@ -116,6 +188,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
