@@ -110,9 +110,45 @@ namespace diseno_sistemas
 
         private void cuentasPorPagarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmtransacciones doform = new frmtransacciones();
+            frmpago doform = new frmpago();
             doform.MdiParent = this;
             doform.Show();
         }
+
+        private void facturasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmdebitos doform = new frmdebitos();
+            doform.MdiParent = this;
+            doform.Show();
+        }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            mantusuarios doform = new mantusuarios();
+            doform.MdiParent = this;
+            doform.Show();
+        }
+
+        private void proveedoresToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            consproveedores doform = new consproveedores();
+            doform.MdiParent = this;
+            doform.Show();
+        }
+
+        private void facturasToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            confacturas doform = new confacturas();
+            doform.MdiParent = this;
+            doform.Show();
+        }
+
+        private void pagosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            conspagos doform = new conspagos();
+            doform.MdiParent = this;
+            doform.Show();
+        }
+        
     }
 }
