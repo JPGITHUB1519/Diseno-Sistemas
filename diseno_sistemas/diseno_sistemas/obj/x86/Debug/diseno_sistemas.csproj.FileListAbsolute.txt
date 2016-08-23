@@ -58,3 +58,5 @@ C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Properties.Resources.resources
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.ribbonmain.resources

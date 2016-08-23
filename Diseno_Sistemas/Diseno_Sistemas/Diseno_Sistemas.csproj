@@ -35,6 +35,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.Ribbon35">
+      <HintPath>..\..\..\..\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data" />
@@ -118,6 +121,12 @@
     <Compile Include="proveedores.Designer.cs">
       <DependentUpon>proveedores.cs</DependentUpon>
     </Compile>
+    <Compile Include="ribbonmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ribbonmain.Designer.cs">
+      <DependentUpon>ribbonmain.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="confacturas.resx">
       <DependentUpon>confacturas.cs</DependentUpon>
     </EmbeddedResource>
@@ -161,6 +170,9 @@
     <EmbeddedResource Include="proveedores.resx">
       <DependentUpon>proveedores.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ribbonmain.resx">
+      <DependentUpon>ribbonmain.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -191,6 +203,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\payment-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suppliers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\debito.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
