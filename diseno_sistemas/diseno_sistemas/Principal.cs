@@ -105,7 +105,9 @@ namespace diseno_sistemas
 
         private void proveedoresToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            mantproveedores doform = new mantproveedores();
+            doform.MdiParent = this;
+            doform.Show();
         }
 
         private void cuentasPorPagarToolStripMenuItem_Click(object sender, EventArgs e)

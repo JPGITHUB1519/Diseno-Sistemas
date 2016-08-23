@@ -41,3 +41,20 @@ C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistem
 C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
 C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
 C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.exe
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.pdb
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.confacturas.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.conspagos.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.consproveedores.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmdebitos.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmpago.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmpermisos.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantproveedores.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmtransacciones.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantusuarios.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Principal.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Properties.Resources.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.csproj.GenerateResource.Cache

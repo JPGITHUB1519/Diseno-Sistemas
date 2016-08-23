@@ -35,21 +35,21 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.btnNuevo = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.NumPago = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NumDebito = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Suplidor = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Monto = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Fecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -120,6 +120,42 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Acciones";
             // 
+            // button7
+            // 
+            this.button7.Image = global::diseno_sistemas.Properties.Resources.print;
+            this.button7.Location = new System.Drawing.Point(140, 19);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(106, 72);
+            this.button7.TabIndex = 69;
+            this.button7.UseVisualStyleBackColor = true;
+            // 
+            // button6
+            // 
+            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
+            this.button6.Location = new System.Drawing.Point(378, 19);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(106, 72);
+            this.button6.TabIndex = 68;
+            this.button6.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
+            this.button5.Location = new System.Drawing.Point(266, 19);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(106, 72);
+            this.button5.TabIndex = 67;
+            this.button5.UseVisualStyleBackColor = true;
+            // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.search;
+            this.btnNuevo.Location = new System.Drawing.Point(15, 19);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
+            this.btnNuevo.TabIndex = 66;
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.textBox3);
@@ -167,61 +203,6 @@
             this.dataGridView1.Size = new System.Drawing.Size(743, 302);
             this.dataGridView1.TabIndex = 41;
             // 
-            // textBox4
-            // 
-            this.textBox4.Enabled = false;
-            this.textBox4.Location = new System.Drawing.Point(495, 550);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(178, 20);
-            this.textBox4.TabIndex = 43;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Maroon;
-            this.label1.Location = new System.Drawing.Point(337, 13);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(233, 29);
-            this.label1.TabIndex = 40;
-            this.label1.Text = "Consulta de Pagos";
-            // 
-            // button7
-            // 
-            this.button7.Image = global::diseno_sistemas.Properties.Resources.print;
-            this.button7.Location = new System.Drawing.Point(140, 19);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(106, 72);
-            this.button7.TabIndex = 69;
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
-            this.button6.Location = new System.Drawing.Point(378, 19);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(106, 72);
-            this.button6.TabIndex = 68;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
-            this.button5.Location = new System.Drawing.Point(266, 19);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(106, 72);
-            this.button5.TabIndex = 67;
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.search;
-            this.btnNuevo.Location = new System.Drawing.Point(15, 19);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
-            this.btnNuevo.TabIndex = 66;
-            this.btnNuevo.UseVisualStyleBackColor = true;
-            // 
             // NumPago
             // 
             this.NumPago.HeaderText = "NumPago";
@@ -247,10 +228,30 @@
             this.Fecha.HeaderText = "Fecha";
             this.Fecha.Name = "Fecha";
             // 
+            // textBox4
+            // 
+            this.textBox4.Enabled = false;
+            this.textBox4.Location = new System.Drawing.Point(495, 550);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(178, 20);
+            this.textBox4.TabIndex = 43;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Maroon;
+            this.label1.Location = new System.Drawing.Point(337, 13);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(233, 29);
+            this.label1.TabIndex = 40;
+            this.label1.Text = "Consulta de Pagos";
+            // 
             // conspagos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(685, 719);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
