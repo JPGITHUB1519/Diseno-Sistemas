@@ -50,12 +50,12 @@
             this.Balance = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label9 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.btnNuevo = new System.Windows.Forms.Button();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -262,6 +262,24 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Acciones";
             // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(545, 532);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(191, 20);
+            this.textBox7.TabIndex = 45;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Maroon;
+            this.label2.Location = new System.Drawing.Point(244, 20);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(283, 29);
+            this.label2.TabIndex = 48;
+            this.label2.Text = "Nota de Debito/Credito";
+            // 
             // button1
             // 
             this.button1.Image = global::diseno_sistemas.Properties.Resources.search;
@@ -298,28 +316,11 @@
             this.btnNuevo.TabIndex = 32;
             this.btnNuevo.UseVisualStyleBackColor = true;
             // 
-            // textBox7
-            // 
-            this.textBox7.Location = new System.Drawing.Point(545, 532);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(191, 20);
-            this.textBox7.TabIndex = 45;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Maroon;
-            this.label2.Location = new System.Drawing.Point(244, 20);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(283, 29);
-            this.label2.TabIndex = 48;
-            this.label2.Text = "Nota de Debito/Credito";
-            // 
             // frmnotascre_deb
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(778, 691);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.dataGridView1);

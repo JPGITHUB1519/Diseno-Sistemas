@@ -28,11 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmpago));
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.button6 = new System.Windows.Forms.Button();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button5 = new System.Windows.Forms.Button();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -53,9 +52,12 @@
             this.PT = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.Balance = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btnNuevo = new System.Windows.Forms.Button();
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.btnNuevo = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -72,15 +74,6 @@
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Proveedor";
             // 
-            // button6
-            // 
-            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
-            this.button6.Location = new System.Drawing.Point(252, 29);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(106, 72);
-            this.button6.TabIndex = 65;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(98, 91);
@@ -94,15 +87,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(297, 20);
             this.textBox1.TabIndex = 44;
-            // 
-            // button5
-            // 
-            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
-            this.button5.Location = new System.Drawing.Point(140, 29);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(106, 72);
-            this.button5.TabIndex = 64;
-            this.button5.UseVisualStyleBackColor = true;
             // 
             // textBox3
             // 
@@ -273,24 +257,16 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Controls.Add(this.button6);
             this.groupBox1.Controls.Add(this.button5);
             this.groupBox1.Controls.Add(this.btnNuevo);
-            this.groupBox1.Location = new System.Drawing.Point(210, 634);
+            this.groupBox1.Location = new System.Drawing.Point(189, 634);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(400, 122);
+            this.groupBox1.Size = new System.Drawing.Size(499, 122);
             this.groupBox1.TabIndex = 41;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Acciones";
-            // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.payment_icon__1_;
-            this.btnNuevo.Location = new System.Drawing.Point(22, 29);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
-            this.btnNuevo.TabIndex = 32;
-            this.btnNuevo.UseVisualStyleBackColor = true;
             // 
             // textBox7
             // 
@@ -308,6 +284,42 @@
             this.label9.Size = new System.Drawing.Size(106, 20);
             this.label9.TabIndex = 39;
             this.label9.Text = "Balance Total";
+            // 
+            // button6
+            // 
+            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
+            this.button6.Location = new System.Drawing.Point(372, 29);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(106, 72);
+            this.button6.TabIndex = 65;
+            this.button6.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
+            this.button5.Location = new System.Drawing.Point(246, 29);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(106, 72);
+            this.button5.TabIndex = 64;
+            this.button5.UseVisualStyleBackColor = true;
+            // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.payment_icon__1_;
+            this.btnNuevo.Location = new System.Drawing.Point(22, 29);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
+            this.btnNuevo.TabIndex = 32;
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.Location = new System.Drawing.Point(134, 29);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(106, 72);
+            this.button1.TabIndex = 71;
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // frmpago
             // 
@@ -362,6 +374,7 @@
         public System.Windows.Forms.Button btnNuevo;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.Label label9;
+        public System.Windows.Forms.Button button1;
 
     }
 }
