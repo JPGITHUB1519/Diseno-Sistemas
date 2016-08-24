@@ -53,6 +53,12 @@
     <Compile Include="confacturas.Designer.cs">
       <DependentUpon>confacturas.cs</DependentUpon>
     </Compile>
+    <Compile Include="consmonedas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consmonedas.Designer.cs">
+      <DependentUpon>consmonedas.cs</DependentUpon>
+    </Compile>
     <Compile Include="conspagos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -125,6 +131,12 @@
     <Compile Include="frmtransacciones.Designer.cs">
       <DependentUpon>frmtransacciones.cs</DependentUpon>
     </Compile>
+    <Compile Include="manttipo_proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manttipo_proveedores.Designer.cs">
+      <DependentUpon>manttipo_proveedores.cs</DependentUpon>
+    </Compile>
     <Compile Include="mantusuarios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -160,6 +172,9 @@
     <EmbeddedResource Include="confacturas.resx">
       <DependentUpon>confacturas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="consmonedas.resx">
+      <DependentUpon>consmonedas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="conspagos.resx">
       <DependentUpon>conspagos.cs</DependentUpon>
     </EmbeddedResource>
@@ -192,6 +207,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmtransacciones.resx">
       <DependentUpon>frmtransacciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manttipo_proveedores.resx">
+      <DependentUpon>manttipo_proveedores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mantusuarios.resx">
       <DependentUpon>mantusuarios.cs</DependentUpon>
