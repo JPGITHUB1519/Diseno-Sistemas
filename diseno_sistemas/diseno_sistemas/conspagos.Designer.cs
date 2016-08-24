@@ -29,9 +29,6 @@
         private void InitializeComponent()
         {
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
             this.NumPago = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NumDebito = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Suplidor = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -43,15 +40,18 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
-            this.btnNuevo = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.btnNuevo = new System.Windows.Forms.Button();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -63,33 +63,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(373, 20);
             this.textBox1.TabIndex = 21;
-            // 
-            // button7
-            // 
-            this.button7.Image = global::diseno_sistemas.Properties.Resources.print;
-            this.button7.Location = new System.Drawing.Point(140, 19);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(106, 72);
-            this.button7.TabIndex = 69;
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
-            this.button6.Location = new System.Drawing.Point(378, 19);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(106, 72);
-            this.button6.TabIndex = 68;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
-            this.button5.Location = new System.Drawing.Point(266, 19);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(106, 72);
-            this.button5.TabIndex = 67;
-            this.button5.UseVisualStyleBackColor = true;
             // 
             // NumPago
             // 
@@ -171,9 +144,9 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.textBox3);
+            this.groupBox1.Controls.Add(this.dateTimePicker2);
+            this.groupBox1.Controls.Add(this.dateTimePicker1);
             this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Controls.Add(this.textBox2);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.comboBox1);
@@ -185,29 +158,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos de Búsqueda";
             // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(175, 109);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(178, 20);
-            this.textBox3.TabIndex = 25;
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(104, 109);
+            this.label4.Location = new System.Drawing.Point(108, 121);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(52, 20);
             this.label4.TabIndex = 24;
             this.label4.Text = "Hasta";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(175, 83);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(178, 20);
-            this.textBox2.TabIndex = 23;
             // 
             // label2
             // 
@@ -245,15 +204,6 @@
             this.textBox5.Size = new System.Drawing.Size(178, 20);
             this.textBox5.TabIndex = 55;
             // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.search;
-            this.btnNuevo.Location = new System.Drawing.Point(15, 19);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
-            this.btnNuevo.TabIndex = 66;
-            this.btnNuevo.UseVisualStyleBackColor = true;
-            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.button7);
@@ -266,6 +216,56 @@
             this.groupBox2.TabIndex = 53;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Acciones";
+            // 
+            // button7
+            // 
+            this.button7.Image = global::diseno_sistemas.Properties.Resources.print;
+            this.button7.Location = new System.Drawing.Point(140, 19);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(106, 72);
+            this.button7.TabIndex = 69;
+            this.button7.UseVisualStyleBackColor = true;
+            // 
+            // button6
+            // 
+            this.button6.Image = global::diseno_sistemas.Properties.Resources.exit;
+            this.button6.Location = new System.Drawing.Point(378, 19);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(106, 72);
+            this.button6.TabIndex = 68;
+            this.button6.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Image = global::diseno_sistemas.Properties.Resources.Undo_icon;
+            this.button5.Location = new System.Drawing.Point(266, 19);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(106, 72);
+            this.button5.TabIndex = 67;
+            this.button5.UseVisualStyleBackColor = true;
+            // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.search;
+            this.btnNuevo.Location = new System.Drawing.Point(15, 19);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
+            this.btnNuevo.TabIndex = 66;
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(175, 83);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePicker1.TabIndex = 25;
+            // 
+            // dateTimePicker2
+            // 
+            this.dateTimePicker2.Location = new System.Drawing.Point(175, 120);
+            this.dateTimePicker2.Name = "dateTimePicker2";
+            this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePicker2.TabIndex = 26;
             // 
             // conspagos
             // 
@@ -309,15 +309,15 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox5;
         public System.Windows.Forms.Button btnNuevo;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.DateTimePicker dateTimePicker2;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
 
     }
 }
