@@ -15,7 +15,7 @@ namespace diseno_sistemas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ribbonmain());
+            Application.Run(new splash());
         }
     }
 }

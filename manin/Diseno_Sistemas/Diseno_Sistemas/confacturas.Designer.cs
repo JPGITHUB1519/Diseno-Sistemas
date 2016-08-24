@@ -81,7 +81,7 @@
             this.Suplidor,
             this.Monto,
             this.Concepto});
-            this.dataGridView1.Location = new System.Drawing.Point(20, 224);
+            this.dataGridView1.Location = new System.Drawing.Point(20, 209);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(743, 302);
             this.dataGridView1.TabIndex = 19;

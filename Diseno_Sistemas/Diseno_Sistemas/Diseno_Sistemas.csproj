@@ -77,6 +77,18 @@
     <Compile Include="frmdebitos.Designer.cs">
       <DependentUpon>frmdebitos.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmestado_cuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmestado_cuenta.Designer.cs">
+      <DependentUpon>frmestado_cuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmnotascre_deb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmnotascre_deb.Designer.cs">
+      <DependentUpon>frmnotascre_deb.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmpago.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +100,18 @@
     </Compile>
     <Compile Include="frmpermisos.Designer.cs">
       <DependentUpon>frmpermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantmonedas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantmonedas.Designer.cs">
+      <DependentUpon>mantmonedas.cs</DependentUpon>
     </Compile>
     <Compile Include="mantproveedores.cs">
       <SubType>Form</SubType>
@@ -127,6 +151,12 @@
     <Compile Include="ribbonmain.Designer.cs">
       <DependentUpon>ribbonmain.cs</DependentUpon>
     </Compile>
+    <Compile Include="splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash.Designer.cs">
+      <DependentUpon>splash.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="confacturas.resx">
       <DependentUpon>confacturas.cs</DependentUpon>
     </EmbeddedResource>
@@ -139,11 +169,23 @@
     <EmbeddedResource Include="frmdebitos.resx">
       <DependentUpon>frmdebitos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmestado_cuenta.resx">
+      <DependentUpon>frmestado_cuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmnotascre_deb.resx">
+      <DependentUpon>frmnotascre_deb.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmpago.resx">
       <DependentUpon>frmpago.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmpermisos.resx">
       <DependentUpon>frmpermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantmonedas.resx">
+      <DependentUpon>mantmonedas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mantproveedores.resx">
       <DependentUpon>mantproveedores.cs</DependentUpon>
@@ -172,6 +214,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ribbonmain.resx">
       <DependentUpon>ribbonmain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -209,6 +254,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\debito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cxp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backcxp.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

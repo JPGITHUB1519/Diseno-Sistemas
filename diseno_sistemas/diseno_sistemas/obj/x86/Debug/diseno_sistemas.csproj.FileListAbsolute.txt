@@ -60,3 +60,8 @@ C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.csproj.GenerateResource.Cache
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\bin\Debug\System.Windows.Forms.Ribbon35.dll
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.ribbonmain.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmestado_cuenta.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmnotascre_deb.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmlogin.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantmonedas.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.splash.resources

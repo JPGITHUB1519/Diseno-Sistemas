@@ -35,5 +35,10 @@ namespace diseno_sistemas
         {
 
         }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
