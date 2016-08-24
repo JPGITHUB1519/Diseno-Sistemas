@@ -103,6 +103,16 @@ namespace diseno_sistemas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap login {
+            get {
+                object obj = ResourceManager.GetObject("login", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap payment_icon__1_ {
             get {
                 object obj = ResourceManager.GetObject("payment-icon (1)", resourceCulture);
@@ -156,6 +166,16 @@ namespace diseno_sistemas.Properties {
         internal static System.Drawing.Bitmap Undo_icon {
             get {
                 object obj = ResourceManager.GetObject("Undo-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap User_Interface_Login_icon {
+            get {
+                object obj = ResourceManager.GetObject("User-Interface-Login-icon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -1,0 +1,67 @@
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.exe
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.pdb
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Principal.resources
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Properties.Resources.resources
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
+C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmtransacciones.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.exe
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.pdb
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmpago.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmtransacciones.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Principal.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmdebitos.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmproveedores.resources
+C:\Documents and Settings\Administrador\Escritorio\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.confacturas.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.exe
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.confacturas.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.conspagos.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.consproveedores.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmdebitos.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmpago.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmpermisos.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantproveedores.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmtransacciones.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantusuarios.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Principal.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Universidad\Diseño de Sistemas 2\Diseno-Sistemas\diseno_sistemas\diseno_sistemas\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.exe
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.pdb
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.csprojResolveAssemblyReference.cache
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.confacturas.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.conspagos.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.consproveedores.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmdebitos.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmpermisos.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantproveedores.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmtransacciones.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantusuarios.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Principal.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Properties.Resources.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.proveedores.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.csproj.GenerateResource.Cache
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Login.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.LG.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.NDebCre.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmEstdoCuenta.resources
+C:\Users\adelson\Desktop\Diseno-Sistemas-master\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.Monedas.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\manin\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.exe
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\manin\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
