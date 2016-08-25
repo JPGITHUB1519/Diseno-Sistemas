@@ -140,7 +140,7 @@ namespace diseno_sistemas
 
         private void facturasToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            confacturas doform = new confacturas();
+            consdebitos doform = new consdebitos();
             doform.MdiParent = this;
             doform.Show();
         }

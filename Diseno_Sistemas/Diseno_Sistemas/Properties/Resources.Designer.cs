@@ -143,6 +143,16 @@ namespace diseno_sistemas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap moneda {
+            get {
+                object obj = ResourceManager.GetObject("moneda", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap payment_icon__1_ {
             get {
                 object obj = ResourceManager.GetObject("payment-icon (1)", resourceCulture);
@@ -186,6 +196,26 @@ namespace diseno_sistemas.Properties {
         internal static System.Drawing.Bitmap suppliers {
             get {
                 object obj = ResourceManager.GetObject("suppliers", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tipo {
+            get {
+                object obj = ResourceManager.GetObject("tipo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tipo1 {
+            get {
+                object obj = ResourceManager.GetObject("tipo1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

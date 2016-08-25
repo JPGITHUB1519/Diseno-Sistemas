@@ -15,7 +15,7 @@ namespace diseno_sistemas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new splash());
+            Application.Run(new cons_tipos_proveedores ());
         }
     }
 }

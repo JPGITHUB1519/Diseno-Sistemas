@@ -2,3 +2,7 @@ C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\CapaPresentacio
 C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
 C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\Programador\Desktop\Disenio de Sistemas\diseno_sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

@@ -33,12 +33,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.btnNuevo = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.btnNuevo = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -93,15 +93,6 @@
             this.label8.TabIndex = 38;
             this.label8.Text = "Usuario";
             // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.User_Interface_Login_icon;
-            this.btnNuevo.Location = new System.Drawing.Point(22, 29);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
-            this.btnNuevo.TabIndex = 32;
-            this.btnNuevo.UseVisualStyleBackColor = true;
-            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.button6);
@@ -153,6 +144,15 @@
             this.button5.TabIndex = 64;
             this.button5.UseVisualStyleBackColor = true;
             // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.User_Interface_Login_icon;
+            this.btnNuevo.Location = new System.Drawing.Point(22, 29);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
+            this.btnNuevo.TabIndex = 32;
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            // 
             // frmlogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -163,7 +163,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Name = "frmlogin";
-            this.Text = "login";
+            this.Text = "Log-In";
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox1.ResumeLayout(false);

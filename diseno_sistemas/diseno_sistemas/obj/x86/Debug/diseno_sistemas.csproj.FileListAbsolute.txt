@@ -45,7 +45,6 @@ C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.pdb
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.exe
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\bin\Debug\diseno_sistemas.pdb
-C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.confacturas.resources
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.conspagos.resources
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.consproveedores.resources
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmdebitos.resources
@@ -65,3 +64,7 @@ C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.frmlogin.resources
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.mantmonedas.resources
 C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.splash.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.consmonedas.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.manttipo_proveedores.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.cons_tipos_proveedores.resources
+C:\Users\Programador\Desktop\Universidad\Diseno-Sistemas\Diseno_Sistemas\diseno_sistemas\obj\x86\Debug\diseno_sistemas.consdebitos.resources

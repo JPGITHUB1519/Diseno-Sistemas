@@ -33,8 +33,6 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button7 = new System.Windows.Forms.Button();
-            this.btnNuevo = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.Codigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -43,6 +41,8 @@
             this.LimiteCredito = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Dirección = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.btnNuevo = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -96,24 +96,6 @@
             this.label1.Size = new System.Drawing.Size(309, 29);
             this.label1.TabIndex = 45;
             this.label1.Text = "Consulta de Proveedores";
-            // 
-            // button7
-            // 
-            this.button7.Image = global::diseno_sistemas.Properties.Resources.print;
-            this.button7.Location = new System.Drawing.Point(374, 84);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(106, 72);
-            this.button7.TabIndex = 71;
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.search;
-            this.btnNuevo.Location = new System.Drawing.Point(249, 84);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
-            this.btnNuevo.TabIndex = 70;
-            this.btnNuevo.UseVisualStyleBackColor = true;
             // 
             // dataGridView1
             // 
@@ -169,6 +151,24 @@
             this.button6.TabIndex = 69;
             this.button6.UseVisualStyleBackColor = true;
             // 
+            // button7
+            // 
+            this.button7.Image = global::diseno_sistemas.Properties.Resources.print;
+            this.button7.Location = new System.Drawing.Point(374, 84);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(106, 72);
+            this.button7.TabIndex = 71;
+            this.button7.UseVisualStyleBackColor = true;
+            // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Image = global::diseno_sistemas.Properties.Resources.search;
+            this.btnNuevo.Location = new System.Drawing.Point(249, 84);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(106, 72);
+            this.btnNuevo.TabIndex = 70;
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            // 
             // consproveedores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -179,7 +179,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Name = "consproveedores";
-            this.Text = "consprov";
+            this.Text = "Consulta de Proveedores";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
