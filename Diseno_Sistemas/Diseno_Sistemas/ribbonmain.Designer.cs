@@ -42,6 +42,8 @@
             this.ribbonButton3 = new System.Windows.Forms.RibbonButton();
             this.ribbonButton4 = new System.Windows.Forms.RibbonButton();
             this.ribbonButton5 = new System.Windows.Forms.RibbonButton();
+            this.ribbonButton10 = new System.Windows.Forms.RibbonButton();
+            this.ribbonButton11 = new System.Windows.Forms.RibbonButton();
             this.ribbonTab3 = new System.Windows.Forms.RibbonTab();
             this.ribbonPanel3 = new System.Windows.Forms.RibbonPanel();
             this.ribbonButton6 = new System.Windows.Forms.RibbonButton();
@@ -55,8 +57,7 @@
             this.ribbonOrbMenuItem4 = new System.Windows.Forms.RibbonOrbMenuItem();
             this.ribbonOrbMenuItem5 = new System.Windows.Forms.RibbonOrbMenuItem();
             this.ribbonOrbMenuItem6 = new System.Windows.Forms.RibbonOrbMenuItem();
-            this.ribbonButton10 = new System.Windows.Forms.RibbonButton();
-            this.ribbonButton11 = new System.Windows.Forms.RibbonButton();
+            this.ribbonButton12 = new System.Windows.Forms.RibbonButton();
             this.SuspendLayout();
             // 
             // ribbon1
@@ -141,6 +142,7 @@
             this.ribbonPanel2.Items.Add(this.ribbonButton4);
             this.ribbonPanel2.Items.Add(this.ribbonButton5);
             this.ribbonPanel2.Items.Add(this.ribbonButton11);
+            this.ribbonPanel2.Items.Add(this.ribbonButton12);
             this.ribbonPanel2.Text = "Consultas";
             // 
             // ribbonButton3
@@ -161,6 +163,18 @@
             this.ribbonButton5.Image = global::diseno_sistemas.Properties.Resources.payment_icon__1_;
             this.ribbonButton5.SmallImage = ((System.Drawing.Image)(resources.GetObject("ribbonButton5.SmallImage")));
             this.ribbonButton5.Text = "Pagos";
+            // 
+            // ribbonButton10
+            // 
+            this.ribbonButton10.Image = ((System.Drawing.Image)(resources.GetObject("ribbonButton10.Image")));
+            this.ribbonButton10.SmallImage = ((System.Drawing.Image)(resources.GetObject("ribbonButton10.SmallImage")));
+            this.ribbonButton10.Text = "ribbonButton10";
+            // 
+            // ribbonButton11
+            // 
+            this.ribbonButton11.Image = global::diseno_sistemas.Properties.Resources.tipo1;
+            this.ribbonButton11.SmallImage = ((System.Drawing.Image)(resources.GetObject("ribbonButton11.SmallImage")));
+            this.ribbonButton11.Text = "Tipos Proveedores";
             // 
             // ribbonTab3
             // 
@@ -237,17 +251,11 @@
             this.ribbonOrbMenuItem6.SmallImage = global::diseno_sistemas.Properties.Resources.payment_icon__1_;
             this.ribbonOrbMenuItem6.Text = "Transaccion de Pago";
             // 
-            // ribbonButton10
+            // ribbonButton12
             // 
-            this.ribbonButton10.Image = ((System.Drawing.Image)(resources.GetObject("ribbonButton10.Image")));
-            this.ribbonButton10.SmallImage = ((System.Drawing.Image)(resources.GetObject("ribbonButton10.SmallImage")));
-            this.ribbonButton10.Text = "ribbonButton10";
-            // 
-            // ribbonButton11
-            // 
-            this.ribbonButton11.Image = global::diseno_sistemas.Properties.Resources.tipo1;
-            this.ribbonButton11.SmallImage = ((System.Drawing.Image)(resources.GetObject("ribbonButton11.SmallImage")));
-            this.ribbonButton11.Text = "Tipos Proveedores";
+            this.ribbonButton12.Image = global::diseno_sistemas.Properties.Resources.moneda;
+            this.ribbonButton12.SmallImage = ((System.Drawing.Image)(resources.GetObject("ribbonButton12.SmallImage")));
+            this.ribbonButton12.Text = "Monedas";
             // 
             // ribbonmain
             // 
@@ -292,5 +300,6 @@
         private System.Windows.Forms.RibbonButton ribbonButton9;
         private System.Windows.Forms.RibbonButton ribbonButton10;
         private System.Windows.Forms.RibbonButton ribbonButton11;
+        private System.Windows.Forms.RibbonButton ribbonButton12;
     }
 }
